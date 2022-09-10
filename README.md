@@ -1,9 +1,14 @@
-# Admin React Apps
+# REACT APP STARTER
 
-- Structuring Project
-- Setting Routing Page
+COMBINATION :
+- React
+- React Router Dom
+- Bootstrap
 - Login
-- Register
-- LocalStorage Auth
-- Integration Admin LTE
-- Integration Redux State Management
+- Router
+
+HOW TO USE :
+
+- Git Pull
+- npm install or yarn install
+- npm / yarn start
