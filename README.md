@@ -7,3 +7,4 @@
 - LocalStorage Auth
 - Integration Admin LTE
 - Integration Redux State Management
+- Integration DataTable
