@@ -1,6 +1,6 @@
 # Admin React Apps
 
-- Structuring Project
+- Structuring Project ( View, Controller, Services )
 - Setting Routing Page
 - Login
 - Register
